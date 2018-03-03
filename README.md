@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 1, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Caitlin Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using JavaScript to create a calculator that calculates tax based on the users income, relationship stauts, and how they choose to file their taxes. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ccr16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create a calculator 
+2. How to initialize tax rates for each status
+3. How to remove the results 
 
